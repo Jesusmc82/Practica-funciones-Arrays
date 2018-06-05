@@ -41,21 +41,4 @@ public class PracticaFuncionArrays {
 
         return resultado;
     }
-//    public static int[] parejaAleatoriaDistinta(int[] a) {
-//        int resultado[] = new int[3];
-//        int indiceAleatorio = 0;
-//        for (int i = 0; i < resultado.length; i++) {
-//            indiceAleatorio = (int) (Math.random() * a.length);
-//            if ((indiceAleatorio != indiceAleatorio)) {
-//
-//                System.out.print("Indice Aleatorio: " + indiceAleatorio);
-//
-//                resultado[i] = a[indiceAleatorio];
-//            }
-//            System.out.print("Indice Aleatorio bueno: " + indiceAleatorio);
-//
-//        }
-//        return resultado;
-//    }
 }
-//practicar con otra cantidad de número, que devuelva con 1 solo valor al azar, que devuelva una pareja pero sin repetir el indice ni ningún valor del array
